@@ -1,5 +1,4 @@
-abcd
-============
+## Una Falta de Educacion
 
 This is my project for the TechSummitPR Hackathon on June 6, 2013.  Our goal is to study a data-set given to us by the Center for Youth Development in relation to the geography of the municipalities of Puerto Rico.
 
@@ -16,7 +15,7 @@ Due to time constraints, we limited ourselves to one statistic:
 
 We created a dashboard with a map of Puerto Rico and charts demonstrating these statistics:
 
-![](https://dl.dropboxusercontent.com/u/17949100/OGP/screenshot.png)
+![](https://dl.dropboxusercontent.com/u/17949100/OGP/screenshOt.png)
 
 On the right, you can click on your *municipio* and on the left, statistics will appear.
 
