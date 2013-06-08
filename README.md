@@ -24,7 +24,7 @@ Online Demonstration at:
 
 ### Technical Challenges
 
-During the hackathon, I had to learn to use Miguel Rios' [AtlasPR](https://github.com/miguelrios/atlaspr) library, a special collection of JavaScript maps build with d3.js data visualization library.  This library include very accurate polygons for the *municipios* of Puerto Rico for map-drawing.
+During the hackathon, I had to learn to use Miguel Rios' [AtlasPR](https://github.com/miguelrios/atlaspr) library, a special collection of JavaScript maps build with d3.js data visualization library.  This library include very accurate polygons for the *municipios* of Puerto Rico for map-drawing.  However, this library is a work in progress so I have my own version of [AtlasPR](https://github.com/MonsieurCactus/atlaspr) to merge later.
 
 In addition, we drew bar charts using [nvd3](http://nvd3.org/), a simplified version of d3.js which contains pre-made chart templates, which can be modified with the general d3.js library.
 
